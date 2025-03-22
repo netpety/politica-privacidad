@@ -7,7 +7,7 @@
 
 ## Información que no recopilamos:
 
-"No recopilamos información de identificación personal, como nombres, direcciones de correo electrónico, números de teléfono, ubicaciones, o cualquier otro dato que pueda identificarlo personalmente.
+"No recopilamos información de identificación personal, como nombres, direcciones de correo electrónico, números de teléfono, ubicaciones, o cualquier otro dato que pueda identificarlo personalmente."
 
 "No recopilamos datos de uso, hábitos de navegación, o cualquier otro tipo de información de seguimiento."
 
